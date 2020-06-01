@@ -33,3 +33,20 @@
 .slide-drawer a:active {
     color: orange;
 }
+
+.homeSlide{
+    background-color: black;
+    height: 50px;
+    font-weight: bold;
+}
+
+.homePSlide1 {
+    color: red;
+    text-align: left;
+}
+
+.homeSlide2 {
+    color: white;
+    text-align: right;
+    margin-top: -20px;
+}
